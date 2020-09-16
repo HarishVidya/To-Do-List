@@ -59,12 +59,10 @@ h3{
 }
 ol.notCompleted{
     list-style: none;
-    background: white;
     border-radius: 5px;
 }
 ol.Completed{
     list-style: none;
-    background: white;
     border-radius: 5px;
 }
 ol li{
